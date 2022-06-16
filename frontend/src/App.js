@@ -17,6 +17,7 @@ const App = () => {
           <Routes>
             <Route path='/' element={<HomeScreen />} />
             <Route path='/product/:id' element={<ProductScreen />} />
+
           </Routes>
         </Container>
       </main>

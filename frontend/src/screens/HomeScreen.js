@@ -15,7 +15,7 @@ const HomeScreen = () => {
                 ))}
             </Row>
         </>
-    )
-}
+    );
+};
 
-export default HomeScreen
+export default HomeScreen;
